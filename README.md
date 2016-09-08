@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<a href="/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif" target="_blank"><img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+!(tips-ahoy gif)[tips_ahoy.gif]
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -33,6 +33,7 @@ Describe any challenges encountered while building the app.
 
 - I built an initial version of the app and messed up the interaction between the initial bill field and the tip calculation; I’m still not sure what happened, so I had to re-build the app. De-bugging in Swift isn’t something I’m quite adept at yet.
 - I change the name of my app so I had to re-enter a new one in the p.list!
+- Accidentally messed up the syncing of my local repository with my remote one, so had some trouble with Github sadly...
 
 ## License
 
