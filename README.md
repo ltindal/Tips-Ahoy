@@ -1,8 +1,8 @@
-# Tips-Ahoy-
+# Tips-Ahoy
 
 Submitted by: Lauren Tindal
 
-Time spent: 7 hours spent in total
+Time spent: 8 hours spent in total
 
 ## User Stories
 
@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-!(tips-ahoy gif)[tips_ahoy.gif]
+![tips-ahoy gif](tips_ahoy.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
